@@ -3,6 +3,10 @@
 #include <vector>
 using namespace std;
 
+// a function is a small/large function that can be reused
+// returns a value to the code that is callling the function
+//
+
 int triple(int input) {
   return input * 3;
 }

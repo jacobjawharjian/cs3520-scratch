@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
   string hello = "Hello";
-  vector test_vector = {1, 2, 3};
+  vector<int> test_vector = {1, 2, 3};
   // size_t is a special type!
   // It's usually used for the size of data structures
   size_t string_size = hello.size();
