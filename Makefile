@@ -1,4 +1,4 @@
-PROGRAMS=exercises4
+PROGRAMS=scratch
 
 CXXFLAGS=-std=c++20 -O0 -g -fno-inline -Wall -Werror -pedantic-errors
 LDFLAGS=-std=c++20
